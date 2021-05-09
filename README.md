@@ -1,3 +1,3 @@
 # master
 
-# This is just a chol branch of the master branch, for testing and learning purposes.
+# This is just a child branch of the master branch, for testing and learning purposes.
